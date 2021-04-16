@@ -1,19 +1,19 @@
 <template>
   <div id="header">
-    <h1>たすく管理</h1>
+    <h1>Todo list</h1>
   </div>
 </template>
 
 <style scoped>
 #header{
   width: 100%;
-  height: 70px;
+  height: 40px;
   margin: 0 auto;
   text-align: center;
-  font-size: 20px;
+  font-size: 13px;
   color: #fff;
   background-color: rgb(212, 156, 156);
-  line-height: 70px;
+  line-height: 40px;
   margin-bottom: 50px;
 }
 </style>
